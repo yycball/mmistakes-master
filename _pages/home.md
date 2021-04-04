@@ -18,8 +18,7 @@ feature_row:
     alt: "customizable"
     title: "Beginners"
     excerpt: "Programs designed for those who are new to basketball... with a focus on fun."
-#    url: "/docs/configuration/"
-    url: "/beginners"
+    url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/mm-responsive-feature.png
