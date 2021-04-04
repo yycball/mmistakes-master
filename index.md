@@ -11,15 +11,15 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
 #  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  Simplifying Youth Basketball Programs in YYC<br />
-#<small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.22.0">Latest release v4.22.0</a></small>
+  Main folder page - Simplifying Youth Basketball Programs in YYC<br />
+<small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.22.0">Latest release v4.22.0</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Beginners"
     excerpt: "Programs designed for those who are new to basketball... with a focus on fun."
-#    url: "/docs/configuration/"
-    url: "/beginners"
+    url: "/docs/configuration/"
+#    url: "/beginners"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/mm-responsive-feature.png
@@ -38,4 +38,4 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
- {% include feature_row %}
+{% include feature_row %}
