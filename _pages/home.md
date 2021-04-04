@@ -10,9 +10,8 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-#  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  Simplifying Youth Basketball Programs in YYC<br />
-#<small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.22.0">Latest release v4.22.0</a></small>
+  Page 2 - Simplifying Youth Basketball Programs in YYC<br />
+<small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.22.0">Latest release v4.22.0</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -37,4 +36,4 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
- {% include feature_row %}
+{% include feature_row %}
