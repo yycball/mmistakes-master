@@ -1,9 +1,9 @@
 main:
   - title: "Beginners"
     url: /beginners/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Community League"
+    url: /community/
+  - title: "Club Spring League"
+    url: /club/
+  - title: "Club & Advanced Training"
+    url: /training/
