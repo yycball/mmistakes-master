@@ -29,5 +29,12 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "test 4th column"
+    title: "Test 4th"
+    excerpt: "Hope this works"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Read more"      
 ---
 {% include feature_row %}
